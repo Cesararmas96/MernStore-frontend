@@ -1,0 +1,26 @@
+{
+  "productos": [
+    {
+      "name": "canaima",
+      "priceBase": 1999,
+      "img": "no",
+      "discount": 10,
+      "id": "bfc5d138-42c6-445f-acac-e14431204074"
+    },
+    {
+      "name": "dsd",
+      "priceBase": 2,
+      "img": "no",
+      "discount": 50,
+      "id": "474e5797-0e74-43ab-a7a0-dfd8b0a62036"
+    },
+    {
+      "name": "gg",
+      "priceBase": 2,
+      "img": "no",
+      "discount": 0,
+      "id": "acde3014-1522-43bf-b0e9-90090bc23724"
+    }
+
+  ]
+}
